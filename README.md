@@ -6,3 +6,5 @@ tulisan asli https://lkmidas.github.io/posts/20210123-linux-kernel-pwn-part-1/?r
 tulisan asli https://ptr-yudai.hatenablog.com/entry/2023/12/07/221333
 # wall-rose tantangan dari hitcon 2023
 tulisan asli https://chovid99.github.io/posts/hitcon-ctf-2023/
+# cache of castaways tantangan dari corCTF 2022
+tulisan asli https://www.willsroot.io/2022/08/reviving-exploits-against-cred-struct.html
