@@ -10,3 +10,5 @@ tulisan asli https://chovid99.github.io/posts/hitcon-ctf-2023/
 tulisan asli https://www.willsroot.io/2022/08/reviving-exploits-against-cred-struct.html
 # fire-of-of-salvation tantangan dari corCTF 2021
 tulisan asli https://www.willsroot.io/2021/08/corctf-2021-fire-of-salvation-writeup.html
+# pawnyable tantangan dari https://pawnyable.cafe/
+tulisan asli https://pawnyable.cafe/
